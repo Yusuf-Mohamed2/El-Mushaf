@@ -1,4 +1,4 @@
-const CACHE_NAME = "quran-voice-v98";
+const CACHE_NAME = "quran-voice-v99";
 
 /*
     كاش تلاوة الشيخ (منفصل عن كاش الواجهة). لازم يفضل نفس
